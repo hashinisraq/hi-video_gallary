@@ -1,4 +1,4 @@
-Video Gallary
+## Video Gallary/LMS Course Video
 
 The site can be found at the following addresses 🌐:
 
