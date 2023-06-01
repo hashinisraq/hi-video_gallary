@@ -2,8 +2,7 @@
 
 The site can be found at the following addresses 🌐:
 
-- Main: <https://hashinisraq.github.io/video-gallary>
-
+- Main: <https://hashinisraq.github.io/hi-video_gallary>
 
 ## Pre-requisites
 
@@ -18,7 +17,7 @@ The site can be found at the following addresses 🌐:
 You must first clone the repository. To do so, first open your console and type:
 
 ```bash
-git clone https://github.com/hashinisraq/video-gallary.git
+git clone https://github.com/hashinisraq/hi-video_gallary.git
 ```
 
 After you have cloned the repo just the open the index.html or open it with vs code live server.
